@@ -1,4 +1,3 @@
-Certainly! Here's a formatted GitHub README for your Monitor Control application:
 
 ---
 
