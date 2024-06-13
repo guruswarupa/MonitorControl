@@ -63,11 +63,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-### Notes:
-
-- Replace `your-username` in URLs with your actual GitHub username or organization name.
-- Provide accurate instructions for installation and usage based on your application's structure and dependencies.
-- Include relevant information about limitations and compatibility to manage user expectations.
-- Adjust the content to fit your specific project details, such as additional features, setup instructions, or known issues.
-
-This README template aims to give a clear overview of your project, its features, and how to get started with it. Customize it further to suit the specific details and needs of your Monitor Control application.
